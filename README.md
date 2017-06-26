@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to caiburujimen
 
-You can use the [editor on GitHub](https://github.com/caiburujimen/caiburujimen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+请搜索“caiburujimen”关注我的微信公众号，亦可点击 [三句话投资](https://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzYwNTk0Nw==&hid=1&sn=e9f272fefd27fa7a7f4e77e167f12c5c&uin=&key=&devicetype=Windows+UnKnow&version=62040525&lang=zh_CN&winzoom=1) 查看我的更多文章
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本站预计包含以下内容
 
-### Markdown
+### 投资理念
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+中长期趋势投资，不唯传统价值投资思路，将基本面和技术分析等方法结合，以求规避系统性风险，低回撤下的长期高回报。
 
-```markdown
-Syntax highlighted code block
+### 交易策略
 
-# Header 1
-## Header 2
-### Header 3
+对止损、加仓、资金管理的理解，以及一些技术分析、策略分析
 
-- Bulleted
-- List
+### 案例分析
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caiburujimen/caiburujimen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+个股及特定行情的研究总结
