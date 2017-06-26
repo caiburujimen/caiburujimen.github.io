@@ -1,12 +1,14 @@
 ## Welcome to caiburujimen
 
-请关注微信公众号
+请扫描下方二维码关注微信公众号
 
  ![三句话投资](http://mmbiz.qpic.cn/mmbiz_jpg/QK7KwQxRuUJfn7VSMRGxgruSmzsqkUnOlQRAGVlNETpNH6iaeZg9NNIJGMWgiaazUDKYjdgGpdqNpPxyXgSpFXibA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-微信号：“caiburujimen”
+微信号：caiburujimen
 
 亦可直接点击 [三句话投资](https://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzYwNTk0Nw==&hid=1&sn=e9f272fefd27fa7a7f4e77e167f12c5c&uin=&key=&devicetype=Windows+UnKnow&version=62040525&lang=zh_CN&winzoom=1) 查看我的更多文章
+
+
 
 本站预计包含以下内容
 
