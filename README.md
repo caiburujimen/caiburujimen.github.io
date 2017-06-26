@@ -8,8 +8,6 @@
 
 亦可直接点击 [三句话投资](https://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzYwNTk0Nw==&hid=1&sn=e9f272fefd27fa7a7f4e77e167f12c5c&uin=&key=&devicetype=Windows+UnKnow&version=62040525&lang=zh_CN&winzoom=1) 查看我的更多文章
 
-
-
 本站预计包含以下内容
 
 ### 投资理念
